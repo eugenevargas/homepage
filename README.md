@@ -1,4 +1,4 @@
 # homepage
 My first personal website. Basically it is just a résumé.
 
-Initial README Commit
+https://eugenevargas.github.io/homepage/
